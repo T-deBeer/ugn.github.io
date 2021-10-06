@@ -227,21 +227,6 @@ body {
   text-decoration: none;
 }
 
-.TopicTitle{
-
-  margin-top: 100px;
-  margin-left: 33%;
-  font-family: "Staatliches", cursive;
-  min-height: 80px;
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  align-items: center;
-  grid-gap: 1em;
-
-}
-
 .TopicTitle:hover {
   transform: scale3d(1.5, 1);
   content: " : UNIQUE GROUP NAME";
