@@ -254,9 +254,8 @@ section[name="sides-diagram"]>img{
 .heading-edits{
     overflow: hidden;
     width: 420px;
-    padding-left: 60px;
     border-radius: 10px;
-    margin-left: 730px;
+    margin-left: 530px;
     margin-top: 30px;
     height: auto;
     color: #313131;
@@ -350,4 +349,7 @@ section[name="sides-diagram"]>img{
 }
 .view-inline{
     display: inline;
+}
+.edit-button{
+  margin-top: 20px;
 }
