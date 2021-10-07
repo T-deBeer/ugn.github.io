@@ -176,6 +176,12 @@ body {
   transform: scale(1.05, 1);
 }
 
+section[name="sides-diagram"]>img{
+  margin: 5%;
+  padding: 0% 10%;
+  width: 70%;
+}
+
 .article {
   display: grid;
   width: 50%;
@@ -187,7 +193,8 @@ body {
   color: whitesmoke;
   background-color: #444444;
   padding: 2em;
-  border-radius: 25%;
+  border-radius: 10%;
+  font-size: large;
 }
 
 .article h1 {
@@ -199,6 +206,7 @@ body {
 }
 .article p {
   text-align: justify;
+  margin: 20px;
 }
 .return {
   font-size: 16px;
