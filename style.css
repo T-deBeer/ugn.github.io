@@ -237,7 +237,7 @@ section[name="sides-diagram"]>img{
 
 .TopicTitle:hover {
   transform: scale(1.5, 1);
-  color: #ededed;
+  color: white;
 }
 
 .SmallerImage{
